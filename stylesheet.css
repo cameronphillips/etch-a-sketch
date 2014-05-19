@@ -1,0 +1,11 @@
+.block {
+	background-color: black;
+	height: 50px;
+	width: 50px;
+	position: inline-block;
+	margin: 10px;
+}
+
+.container {
+	border: 2px solid black;
+}
